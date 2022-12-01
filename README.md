@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">Olá! Sou Amanda :first_quarter_moon_with_face:</h3>
 
-<!--
-**amandanscmt/amandanscmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:star: Um pouco sobre mim:
+* Sou formada em Licenciatura em Letras
+* Aprendi HTML aos 13 anos
+* Me interesso por Front-end
+* Também sou fotógrafa
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:pencil2: Atualmente estou estudando:
+* HTML
+* CSS
+* JavaScript
+* E em breve mais coisas! 
