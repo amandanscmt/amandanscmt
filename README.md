@@ -4,7 +4,6 @@
 * Sou formada em Licenciatura em Letras
 * Aprendi HTML aos 13 anos
 * Me interesso por Front-end
-* Também sou fotógrafa
 
 :pencil2: Atualmente estou estudando:
 * HTML
