@@ -9,4 +9,3 @@
 * HTML
 * CSS
 * JavaScript
-* E em breve mais coisas! 
