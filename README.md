@@ -1,4 +1,4 @@
-<h3 align="center">Olá! Sou Amanda :first_quarter_moon_with_face:</h3>
+#Olá! Sou Amanda :first_quarter_moon_with_face:
 
 :star: Um pouco sobre mim:
 * Sou formada em Licenciatura em Letras
