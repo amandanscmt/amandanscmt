@@ -1,11 +1,14 @@
-### Olá! Sou Amanda :first_quarter_moon_with_face:
+### Olá! Sou Amanda :sparkles:
 
 :star: Um pouco sobre mim:
-* Sou formada em Licenciatura em Letras
-* Agora cursando Análise e Desenvolvimento de Sistemas
-* Me interesso por desenvolvimento Front-end
+* :mortar_board: Sou formada em Licenciatura em Letras
+* :computer: Agora estou cursando Análise e Desenvolvimento de Sistemas
+* :heart_on_fire: Sou apaixonada por desenvolvimento Front-end
 
-:pencil2: Atualmente estou estudando:
-* HTML
-* CSS
-* JavaScript
+:star: Focando em:
+* :white_check_mark: HTML
+* :white_check_mark: CSS
+* :white_check_mark: JavaScript
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandanscmt&show_icons=true&theme=tokyonight&title_color=ec3c68&text_color=e7abc3&bg_color=050505&hide_border=true&locale=en&layout=compact" alt="amandanscmt" /><img src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="150"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandanscmt&show_icons=true&theme=tokyonight&title_color=ec3c68&text_color=e7abc3&bg_color=050505&hide_border=true&locale=en" alt="amandanscmt" /></p>
