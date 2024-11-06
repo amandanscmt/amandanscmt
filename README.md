@@ -3,7 +3,6 @@
 :star: Um pouco sobre mim:
 * :mortar_board: Sou formada em Licenciatura em Letras
 * :computer: Agora estou cursando Análise e Desenvolvimento de Sistemas
-* :heart_on_fire: Sou apaixonada por aprender
 
 :star: O que eu sei:
 * :white_check_mark: HTML
